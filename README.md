@@ -1,5 +1,3 @@
 # MA261-Differential-Equations-Modelling-and-Numerics
 
----
-
-blah blah blah
+This repository contains all the work I did as part of a module in my second year of university, called Differential Equations: Modelling and Numerics (short title I know). The module's learning objectives were to investigate and learn the methodology in solving differential equations numerically and use python to apply this computationally. I completed 4 assignments for this module and in each assignment folder you will find a pdf of the handout we were given which detailed the tasks to carry out. Half of each assignment was written and so there is another pdf file which is scans of my written work solving the questions in the first half of the handout. The other half was obviously coding and so there is also jupyter notebooks (in the form of ipynb files) - a notebook I submitted and a corrected one when we got feedback. In some, you will also find accompanying files like screenshots of things related to the assignment, written or coding half.
